@@ -1,7 +1,7 @@
 "AddonInfo"
 {
 	"name" "Star Wars Lightsabers"
-	"author_name" "Author Name"
+	"author_name" "D-BOY"
 	"info" "
 {
 	"description": "Description",
